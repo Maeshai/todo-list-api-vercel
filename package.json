@@ -1,0 +1,23 @@
+{
+  "name": "todo-list-api",
+  "version": "1.0.0",
+  "description": "## Description A simple REST API for managing tasks. Users can create, read, update, and delete tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maeshai/todo-list-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maeshai/todo-list-api/issues"
+  },
+  "homepage": "https://github.com/Maeshai/todo-list-api#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
